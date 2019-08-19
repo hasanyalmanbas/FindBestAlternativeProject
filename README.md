@@ -1,4 +1,4 @@
-# Homework-OperationsResearch
+# Yöneylem Araştırması Ödev Projesi
 
 Üniversite "Yöneylem Araştırması Özel Konular" dersimiz için geliştirdiğimiz bir uygulamadır.
 Uygulamada "Vikor" ve "Topsis" karar verme yöntemleri bulunmaktadır.
@@ -27,7 +27,7 @@ Ve son olarakta hesaplaya basın.
 Son açılan formda belirttiğin değerler üzerinden seçtiğiniz yöntem ile hesaplanan alternatif size gösterilecektir.
 
 
-## Authors
+## Geliştirenler
 
 * **Hasan Talha YALMANBAŞ**  - [github](https://github.com/hasanyalmanbas)
 * **Merve KENÇ** - [linkedin](https://www.linkedin.com/in/merve-ken%C3%A7-6b2a35153/)
