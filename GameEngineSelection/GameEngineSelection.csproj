@@ -53,6 +53,18 @@
     <Compile Include="Anasayfa.Designer.cs">
       <DependentUpon>Anasayfa.cs</DependentUpon>
     </Compile>
+    <Compile Include="Islemler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Islemler.Designer.cs">
+      <DependentUpon>Islemler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sonuc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sonuc.Designer.cs">
+      <DependentUpon>Sonuc.cs</DependentUpon>
+    </Compile>
     <Compile Include="Tablo.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,6 +76,9 @@
     <EmbeddedResource Include="Anasayfa.resx">
       <DependentUpon>Anasayfa.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Islemler.resx">
+      <DependentUpon>Islemler.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -73,6 +88,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Sonuc.resx">
+      <DependentUpon>Sonuc.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Tablo.resx">
       <DependentUpon>Tablo.cs</DependentUpon>
     </EmbeddedResource>
