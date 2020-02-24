@@ -29,5 +29,5 @@ Son açılan formda belirttiğin değerler üzerinden seçtiğiniz yöntem ile h
 
 ## Geliştirenler
 
-* **Hasan Talha YALMANBAŞ**  - [github](https://github.com/hasanyalmanbas)
+* **Hasan Talha YALMANBAŞ**  - [github](https://github.com/hasanyalmanbas) - [linkedin](https://www.linkedin.com/in/hasan-talha-yalmanba%C5%9F-8a9521109/)
 * **Merve KENÇ** - [linkedin](https://www.linkedin.com/in/merve-ken%C3%A7-6b2a35153/)
