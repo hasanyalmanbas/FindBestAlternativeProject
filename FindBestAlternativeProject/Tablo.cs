@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace GameEngineSelection
+namespace FindBestAlternativeProject
 {
     public partial class Tablo : Form
     {

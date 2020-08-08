@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace GameEngineSelection
+namespace FindBestAlternativeProject
 {
     public partial class Islemler : Form
     {

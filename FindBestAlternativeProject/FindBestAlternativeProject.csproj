@@ -7,8 +7,8 @@
     <ProjectGuid>{3CB5EE78-2C60-4FA7-98AE-999F618CBD10}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>OperationResearch</RootNamespace>
-    <AssemblyName>Decision-Making Program</AssemblyName>
+    <RootNamespace>FindBestAlternativeProject</RootNamespace>
+    <AssemblyName>Find Best Alternative Project</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -118,7 +118,7 @@
     <EmbeddedResource Include="Tablo.resx">
       <DependentUpon>Tablo.cs</DependentUpon>
     </EmbeddedResource>
-    <None Include="GameEngineSelection_TemporaryKey.pfx" />
+    <None Include="FindBestAlternativeProject_TemporaryKey.pfx" />
     <None Include="Properties\app.manifest" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

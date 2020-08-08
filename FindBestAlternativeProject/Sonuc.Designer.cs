@@ -1,4 +1,4 @@
-﻿namespace GameEngineSelection
+﻿namespace FindBestAlternativeProject
 {
     partial class Sonuc
     {
